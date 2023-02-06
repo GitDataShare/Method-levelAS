@@ -10,3 +10,4 @@ data/
     
     *_mdep.csv: method-level dependencies extracted from a project’s source code. 
 
+    bug-issue/*-jira-bugs.zip: a project's bug records extracted from its issue tracking system, JIRA.
