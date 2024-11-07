@@ -1,4 +1,4 @@
-Supplemental materials of our paper: Identifying and Analyzing Method-level Architecture Smells
+Supplemental materials of our paper: Identifying and Analyzing Architecture Smells at The Method Level
 
 Source code: all the source code can be downloaded from GitHub.
 
